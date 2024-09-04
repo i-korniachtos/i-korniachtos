@@ -8,7 +8,7 @@
 - 👀 I’m interested in in the fields of Machine Learning, Data Science, Natural Language Processing, Bioinformatics and Software Engineering
 
 
-- 📫 LinkedIn: [Ioannis Koriachtos](https://www.linkedin.com/in/ioannis-korniachtos-37a94a325/) - ikorniachtos@gmail.com
+- 📫 LinkedIn: [Ioannis Koriachtos](https://www.linkedin.com/in/ioannis-korniachtos-37a94a325/) - Email: ikorniachtos@gmail.com
 - 📱  Facebook: [Ioannis Korniachtos](https://www.facebook.com/ioannis.korniachtos/)
 
 <!---
